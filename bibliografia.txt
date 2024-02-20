@@ -1,0 +1,5 @@
+1. Enviar correos mediante node: https://www.freecodecamp.org/espanol/news/como-usar-nodemailer-para-enviar-correos-electronicos-desde-tu-servidor-node-js/
+
+2.webassembly para react codificar y decodificar avif https://www.npmjs.com/package/@jsquash/avif?activeTab=readme
+
+3.paginacion y sql https://codewithtravel.medium.com/how-to-implement-node-js-rest-apis-with-express-sequelize-pagination-mysql-978064f983d6
